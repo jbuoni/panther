@@ -1,4 +1,5 @@
 # compiled output
+/back-end/dist
 /dist
 /node_modules
 /build
